@@ -1,5 +1,6 @@
 coppwr is a tool that provides low level control over the PipeWire multimedia server.
 
+![](image.png)
 Features:
 Node graph editing
 Object inspection, creation & destruction
